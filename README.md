@@ -17,7 +17,7 @@ This project provides Java implementations of Dijkstra's shortest path algorithm
 - `run_tests.sh`: Script to run tests (details to be added if available).
 - `Report.pdf`: Project report.
 
-## How to Use
+## Usage
 
 1.  **Build the project:**
     Open a terminal in the project root directory and run:
