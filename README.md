@@ -41,3 +41,9 @@ The project offers three ways to compute shortest paths:
 1.  **Priority Queue:** Uses `java.util.PriorityQueue`.
 2.  **ArrayList:** A basic implementation using an `java.util.ArrayList` to store unvisited nodes (less efficient).
 3.  **Custom Heap:** Uses `DijkstraHeap.java`, a custom-built binary heap optimized for Dijkstra's.
+
+## License
+
+This project is for educational purposes only.  
+Starter files were provided by instructors at Flinders University.
+Do not redistribute or use for commercial purposes.
